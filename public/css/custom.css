@@ -1,0 +1,12 @@
+* {
+  /* font-family: Tahoma; */
+
+}
+.side-menu-container .navbar-header {
+  background-color: red !important;
+}
+.navbar-brand .title {
+  font-family: Courier, sans-serif !important;
+  font-size: 1.8rem;
+  text-decoration: underline;
+}
